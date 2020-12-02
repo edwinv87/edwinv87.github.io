@@ -131,6 +131,8 @@
               <a href="/about/">About</a>
             </li><li class="masthead__menu-item">
               <a href="/projects/">Projects</a>
+            </li><li class="masthead__menu-item">
+              <a href="/consultancy/">Consultancy</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -165,16 +167,17 @@
 <div itemscope itemtype="https://schema.org/Person">
 
   
+    <div class="author__avatar">
+      
+        <img src="/assets/images/edwin.jpg" alt="Edwin Vans" itemprop="image">
+      
+    </div>
+  
 
   <div class="author__content">
     
       <h3 class="author__name" itemprop="name">Edwin Vans</h3>
     
-    
-      <div class="author__bio" itemprop="description">
-        <p>Hello, I’m Edwin Vans. An academic by profession, who loves to write code.</p>
-
-      </div>
     
   </div>
 
@@ -294,15 +297,15 @@
 
       <section class="page__content" itemprop="text">
         
-        <h1 id="feats">FEATS</h1>
+        <h2 id="feats">FEATS</h2>
 
 <p>FEATS is a new Python tool for performing clustering on single-cell RNA-sequencing data. FEATS can also estimate the number of clusters, perform outlier detection and batch correction and integration of data from multiple experiments. See <a href="/feats/">feats</a></p>
 
-<h1 id="singlecell">SingleCell</h1>
+<h2 id="singlecell">SingleCell</h2>
 
 <p>SingleCell is a Python class available in the singlecelldata package for managing single-cell RNA-seq data. It contains three pandas dataframes; <code class="language-plaintext highlighter-rouge">data</code> for holding gene expression values (counts/normalized counts), <code class="language-plaintext highlighter-rouge">genedata</code> for holding more information about the genes e.g., gene names, and <code class="language-plaintext highlighter-rouge">celldata</code> which contains more information about cells such as cell types, labels etc. See <a href="/singlecelldata/">SingleCellData</a></p>
 
-<h1 id="scplotlib">scplotlib</h1>
+<h2 id="scplotlib">scplotlib</h2>
 
 <p>scplotlib is a python plotting library for the <a href="/singlecelldata/">SingleCell</a> object. It is built using <a href="https://altair-viz.github.io/">Altair</a>. It can generate various plots for data stored in a SingleCell object such as:</p>
 
