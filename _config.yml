@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Edwin Vans"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello, I'm Edwin Vans. An academic by profession, who loves to write code."
+  avatar           : "/assets/images/edwin.jpg"
+  bio              : # "Hello, I'm Edwin Vans. An academic by profession, who loves to write code."
   location         : "Suva, Fiji"
   email            : 
   links:
