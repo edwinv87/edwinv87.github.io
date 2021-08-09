@@ -1,6 +1,6 @@
 ---
-title: Projects
-permalink: /projects/
+title: Packages
+permalink: /packages/
 ---
 
 ## FEATS

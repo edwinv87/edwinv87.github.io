@@ -21,6 +21,5 @@ Write optimized code for your application.
 
 3. Advising on static website design and hosting solutions for your business.
 
-4. Advising on 
 
 Please email us on: info@edwinvans.com and add our email to your contacts. 
