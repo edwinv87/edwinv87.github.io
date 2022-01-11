@@ -6,11 +6,11 @@ permalink: /publications/
 ## Journal Articles
 1. A. Sharma, A. Lysenko, K. A. Boroevich, **E. Vans**, T. Tsunoda, "Deep-Feature: feature selection in nonimage data using convolutional neural network," Briefings in Bioinformatics, vol. 22, no. 6, 2021. [Link](https://academic.oup.com/bib/article/22/6/bbab297/6343526)
 
-2. **E. Vans**, A. Sharma, A. Patil, "FEATS: feature selection-based clustering of single-cell RNA-seq data," Briefings in Bioinformatics, vol. 22, no. 4, 2020. [Link](https://academic.oup.com/bib/advance-articleabstract/doi/10.1093/bib/bbaa306/6025503)
+2. **E. Vans**, A. Sharma, A. Patil, "FEATS: feature selection-based clustering of single-cell RNA-seq data," Briefings in Bioinformatics, vol. 22, no. 4, 2020. [Link](https://academic.oup.com/bib/article-abstract/22/4/bbaa306/6025503)
 
 3. (Part of Dream SCTC Consortium) J. Tanevski, et. al, “Gene selection for optimal prediction of cell position in tissues from single-cell transcriptomics data,” Life Science Alliance, 2020. [Link](https://www.lifescience-alliance.org/content/3/11/e202000867)
 
-4. A. Sharma, **E. Vans**, D. Shigemizu, K. A. Boroevich, and T. Tsunoda, "DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture," Scientific Reports, vol. 9, 2019. [Link](https://www.nature.com/articless41598-019-47765-6)
+4. A. Sharma, **E. Vans**, D. Shigemizu, K. A. Boroevich, and T. Tsunoda, "DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture," Scientific Reports, vol. 9, 2019. [Link](https://www.nature.com/articles/s41598-019-47765-6)
 
 5. S. Kumar, R. Sharma, and **E. Vans**, "Localization for wireless sensor networks: a neural network approach," International Journal of Computer Networks & Communications (IJCNC), vol. 8, no. 1, pp. 61-71, 2016. [Link](http://www.aircconline.com/ijcnc/V8N1/8116cnc05.pdf)
 
