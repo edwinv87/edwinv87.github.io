@@ -15,14 +15,14 @@ permalink: /publications/
 5. S. Kumar, R. Sharma, and **E. Vans**, "Localization for wireless sensor networks: a neural network approach," International Journal of Computer Networks & Communications (IJCNC), vol. 8, no. 1, pp. 61-71, 2016. [Link](http://www.aircconline.com/ijcnc/V8N1/8116cnc05.pdf)
 
 ## Conference Proceedings
-1. E. Vans, A. Sharma, A. Patil, D. Shigemizu, and T. Tsunoda, “Clustering of smallsample single-cell RNA-seq data via feature clustering and selection,” in PRICAI 2019: Trends in Artificial Intelligence, pp. 445-456, Springer Interna-tional Publishing, 2019.
+1. **E. Vans**, A. Sharma, A. Patil, D. Shigemizu, and T. Tsunoda, “Clustering of smallsample single-cell RNA-seq data via feature clustering and selection,” in PRICAI 2019: Trends in Artificial Intelligence, pp. 445-456, Springer Interna-tional Publishing, 2019.
 [Link](https://link.springer.com/chapter/10.1007/978-3-030-29894-4_36)
 
-2. E. Vans and G. Vachkov, “A random selection fuzzy rule base for robust target tracking behavior of a mobile robot,” in Proc. 2nd Asia-Pacific World Congress on Computer Science and Engineering (APWConCSE 2015), 2015, pp. 1-8. [Link](http://ieeexplore.ieee.org/document/7476125/)
+2. **E. Vans** and G. Vachkov, “A random selection fuzzy rule base for robust target tracking behavior of a mobile robot,” in Proc. 2nd Asia-Pacific World Congress on Computer Science and Engineering (APWConCSE 2015), 2015, pp. 1-8. [Link](http://ieeexplore.ieee.org/document/7476125/)
 
-3. E. Vans, G. Vachkov and A. Sharma, “Vision based autonomous path tracking of a mobile robot using fuzzy logic,” in Proc. Asia-Pacific World Congress on Computer Science and Engineering (APWConCSE 2014), 2014, pp. 1-8. [Link](http://ieeexplore.ieee.org/document/7053862/)
+3. **E. Vans**, G. Vachkov and A. Sharma, “Vision based autonomous path tracking of a mobile robot using fuzzy logic,” in Proc. Asia-Pacific World Congress on Computer Science and Engineering (APWConCSE 2014), 2014, pp. 1-8. [Link](http://ieeexplore.ieee.org/document/7053862/)
 
-4. E. Vans and G. Vachkov, “Fuzzy controller tuning of a mobile robot for exploration and safe navigation in a constrained environment,” in Proc. IEEE International Conference on Computational Intelligence and Cybernetics (CYBERNETICSCOM 2013), 2013, pp. 67-71. [Link](http://ieeexplore.ieee.org/document/6865783/)
+4. **E. Vans** and G. Vachkov, “Fuzzy controller tuning of a mobile robot for exploration and safe navigation in a constrained environment,” in Proc. IEEE International Conference on Computational Intelligence and Cybernetics (CYBERNETICSCOM 2013), 2013, pp. 67-71. [Link](http://ieeexplore.ieee.org/document/6865783/)
 
 
 
