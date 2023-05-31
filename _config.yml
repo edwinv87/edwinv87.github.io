@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : " " # site tagline that appears below site title in masthead
 name                     : "Edwin Vans"
 description              : "My personal website."
-url                      : "https://edwinvans.com"
+url                      : "https://edwinv87.github.io/"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "edwinv87/edwinv87.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
